@@ -14,7 +14,7 @@ Welcome to quiz 4! This time you will recreate iconic:
 
 The finished version will look a bit like following (the framerate is lower due to use of animated gif):
 
-![https://user-images.githubusercontent.com/2682705/46639123-f9796d00-cbaf-11e8-9f8c-e2de7653a867.gif](Image 1)
+![Invaders](https://user-images.githubusercontent.com/2682705/46639123-f9796d00-cbaf-11e8-9f8c-e2de7653a867.gif)
 
 
 
